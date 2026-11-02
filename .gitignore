@@ -1,0 +1,33 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+.venv/
+venv/
+
+# VS Code workspace settings
+.vscode/
+
+# C++ compiled files
+*.o
+*.out
+*.exe
+
+# Build directories
+build/
+cmake-build-*/
+
+# Debug files
+*.dSYM/
+core
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
